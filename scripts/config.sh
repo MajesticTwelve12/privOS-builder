@@ -145,7 +145,9 @@ function cli_tools() {
 		htop \
 		neofetch \
 		net-tools \
-		less
+		less \
+  		arp-scan \
+    		nmap
 }
 
 function add_flatpak() {
