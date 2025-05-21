@@ -118,7 +118,8 @@ function install_apps() {
 		gwenview \
 		keepassxc \
 		torbrowser-launcher \
-		kate
+		kate 
+  		
 }
 
 function install_firewall() {
@@ -145,7 +146,11 @@ function cli_tools() {
 		htop \
 		neofetch \
 		net-tools \
-		less
+		less \
+  		nmap
+    		arp-scan \
+      		wireshark 
+  		
 }
 
 function add_flatpak() {
